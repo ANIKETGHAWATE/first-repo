@@ -1,3 +1,3 @@
 # first-repo
-Aniket here <br>
+Aniket here. <br>
 This is my first Git Repository.
